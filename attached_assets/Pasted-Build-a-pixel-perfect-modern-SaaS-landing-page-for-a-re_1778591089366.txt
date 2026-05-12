@@ -1,0 +1,434 @@
+Build a pixel-perfect modern SaaS landing page for a restaurant website builder startup called EXZIBO.
+
+IMPORTANT:
+Do NOT redesign creatively.
+Do NOT invent a different layout.
+Follow the exact structure and visual hierarchy shown in the provided reference image.
+
+The final result should visually match the reference layout style:
+
+- same premium SaaS composition
+- same spacing balance
+- same section order
+- same device showcase style
+- same visual hierarchy
+- same premium clean aesthetic
+
+But:
+
+- use original assets
+- use EXZIBO branding
+- use warm orange branding instead of copying exactly
+- improve polish where possible
+
+==================================================
+TECH STACK
+
+Use:
+
+- React
+- Next.js
+- Tailwind CSS
+- Framer Motion
+- Lucide React Icons
+
+Frontend only.
+No backend.
+No database.
+No APIs.
+
+Must be fully responsive for:
+
+- Desktop
+- Tablet
+- Mobile
+
+==================================================
+GLOBAL DESIGN RULES
+
+The website should feel:
+
+- premium
+- modern
+- luxurious
+- startup-quality
+- restaurant-focused
+
+DO NOT:
+
+- generate generic Tailwind layouts
+- create huge empty spaces
+- use random gradients
+- use flat boring sections
+- create cartoon UI
+- create crypto-style SaaS UI
+
+==================================================
+COLOR SYSTEM
+
+Background:
+#f8f6f3
+
+Primary Orange:
+#ff6b2c
+
+Dark:
+#101010
+
+Text Primary:
+#111111
+
+Text Secondary:
+#6b6b6b
+
+Cards:
+#ffffff
+
+Borders:
+rgba(0,0,0,0.06)
+
+Use subtle warm glow effects.
+
+==================================================
+TYPOGRAPHY
+
+Use:
+
+- Inter
+  OR
+- Plus Jakarta Sans
+
+Typography style:
+
+- bold modern headlines
+- clean readable subtext
+- premium SaaS spacing
+- tight heading line-height
+
+==================================================
+PAGE STRUCTURE
+
+Build ONLY the Home Page.
+
+==================================================
+SECTION 1 — NAVBAR
+
+Create a premium navbar exactly like the reference.
+
+Navbar:
+
+- EXZIBO logo left
+- navigation center
+- CTA button right
+
+Menu items:
+
+- Home
+- Features
+- Pricing
+- Customers
+- Resources
+- About Us
+
+CTA:
+“Book a Demo”
+
+Navbar style:
+
+- clean
+- thin
+- premium
+- balanced spacing
+- subtle hover effects
+
+Sticky navbar on scroll.
+
+Mobile:
+
+- hamburger menu
+- animated mobile drawer
+
+==================================================
+SECTION 2 — HERO SECTION
+
+IMPORTANT:
+This section must visually match the reference image composition.
+
+Desktop Layout:
+
+- Left side text
+- Right side device showcase
+
+LEFT SIDE CONTENT:
+Small label:
+“#1 Restaurant Website Builder”
+
+Large heading:
+Build Stunning
+Restaurant Websites
+That Bring More Orders
+
+Style:
+
+- large bold typography
+- black text
+- orange emphasis text
+- premium spacing
+
+Subheadline:
+EXZIBO helps restaurant owners create beautiful, mobile-first websites with online ordering, reservations, and everything they need to grow online.
+
+Feature icons row:
+
+- No Coding
+- Online Ordering
+- Reservations
+- SEO Ready
+- Lightning Fast
+
+Buttons:
+
+- Start Building for Free
+- View Live Demo
+
+Small trust text:
+
+- 14-Day Free Trial
+- No Credit Card Required
+
+RIGHT SIDE DEVICE SHOWCASE:
+This is extremely important.
+
+Create:
+
+- one large laptop mockup
+- one overlapping mobile phone mockup
+
+Laptop screen:
+show a luxury restaurant homepage UI
+
+Phone screen:
+show a restaurant menu UI
+
+Composition rules:
+
+- phone overlaps laptop
+- realistic shadows
+- premium perspective
+- floating appearance
+- subtle glow behind devices
+- cinematic feel
+
+This section should feel inspired by:
+
+- Stripe
+- Framer
+- Apple
+- Opera browser showcase
+
+DO NOT:
+
+- use flat screenshots
+- place images side-by-side awkwardly
+- create generic hero layouts
+
+Background:
+
+- subtle cream gradient
+- soft warm lighting
+
+==================================================
+SECTION 3 — TRUSTED LOGOS
+
+Centered section.
+
+Text:
+“Trusted by 1000+ Restaurant Owners”
+
+Show grayscale restaurant logos:
+
+- Spice Villa
+- Urban Thali
+- The Grill House
+- The Biryani Factory
+- Sizzle & Spice
+
+Use elegant spacing.
+
+==================================================
+SECTION 4 — FEATURES SECTION
+
+Exactly like reference image structure.
+
+Left side:
+small heading
+main heading
+description
+
+Right side:
+5 feature cards in a row/grid
+
+Cards:
+
+- rounded corners
+- soft shadows
+- subtle hover effect
+- orange icons
+
+Features:
+
+- Beautiful Menu
+- Online Ordering
+- Reservations
+- Mobile First
+- SEO & Fast
+
+Section heading:
+“Everything You Need to Grow Online”
+
+Section style:
+
+- soft cream container
+- rounded edges
+- premium spacing
+
+==================================================
+SECTION 5 — TEMPLATE SHOWCASE
+
+Layout exactly like reference.
+
+Left side:
+headline + paragraph + button
+
+Right side:
+3 website preview cards
+
+Templates:
+
+- Fine Dining
+- Cafe & Bistro
+- Quick Bites
+
+Cards should:
+
+- show realistic website previews
+- use restaurant imagery
+- have hover lift effect
+- rounded corners
+- premium shadows
+
+==================================================
+SECTION 6 — TESTIMONIALS
+
+Centered section.
+
+Heading:
+“Loved by Restaurant Owners”
+
+3 testimonial cards.
+
+Each card:
+
+- stars
+- review text
+- avatar
+- customer name
+- restaurant name
+
+Cards should:
+
+- look believable
+- have subtle borders
+- clean spacing
+
+==================================================
+SECTION 7 — FINAL CTA
+
+Create dark premium CTA section.
+
+Black/dark charcoal background.
+
+Left side:
+headline + text
+
+Right side:
+email input + CTA button
+
+Headline:
+“Ready to Take Your Restaurant Online?”
+
+Button:
+“Start Free Trial”
+
+Add:
+“No credit card required”
+“14-day free trial”
+
+Use orange glow accents subtly.
+
+==================================================
+SECTION 8 — FOOTER
+
+Dark premium footer.
+
+Columns:
+
+- Product
+- Company
+- Resources
+- Contact
+
+Include:
+
+- social icons
+- logo
+- copyright
+
+==================================================
+RESPONSIVENESS
+
+This is critical.
+
+Mobile version MUST:
+
+- maintain premium look
+- stack hero properly
+- resize typography correctly
+- keep device showcase impressive
+- maintain spacing consistency
+- use touch-friendly buttons
+
+DO NOT:
+
+- squash layouts
+- create giant spacing gaps
+- break typography
+
+==================================================
+ANIMATIONS
+
+Use Framer Motion for:
+
+- fade-up reveals
+- hover effects
+- floating device animation
+- button micro interactions
+- smooth transitions
+
+Animations should feel subtle and expensive.
+
+==================================================
+IMPORTANT FINAL INSTRUCTION
+
+The final website should look almost visually identical in composition quality to the provided reference image.
+
+Focus heavily on:
+
+- spacing
+- hierarchy
+- premium composition
+- realistic device showcase
+- visual balance
+- startup-quality polish
+
+Generate production-ready code with reusable React components.
